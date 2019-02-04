@@ -172,6 +172,10 @@ extension ViewController{
         
         return path.cgPath
     }
+
+    func createAppleLogoPath() -> CGPath {
+        
+    }
 }
 
 //MARK: - Helpers
